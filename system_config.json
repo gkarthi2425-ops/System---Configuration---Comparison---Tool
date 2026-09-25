@@ -1,0 +1,17 @@
+{
+    "Computer Name": "lenovokarthi",
+    "Operating System": "Windows",
+    "OS Version": "10.0.26200",
+    "Machine": "AMD64",
+    "Processor": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+    "CPU Cores": 8,
+    "Logical CPUs": 12,
+    "CPU Usage": "5.9%",
+    "Total RAM": "15.71 GB",
+    "Used RAM": "10.18 GB",
+    "RAM Usage": "64.8%",
+    "Total Disk": "474.72 GB",
+    "Used Disk": "116.02 GB",
+    "Disk Usage": "24.4%",
+    "Python Version": "3.14.6"
+}
